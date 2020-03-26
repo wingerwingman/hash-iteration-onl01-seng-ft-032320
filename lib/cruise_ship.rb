@@ -17,4 +17,4 @@ end
 winner
 
 end
-select_winner
+puts select_winner
